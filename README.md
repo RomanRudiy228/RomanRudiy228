@@ -1,6 +1,5 @@
 # 💫 About Me:
-Fullstack Developer with experience in React, TypeScript, and Node.js, focused on building scalable, production-ready web applications. <br>Skilled in Next.js, Tailwind CSS, NestJS, PostgreSQL, and Supabase. <br><br>Experienced in working in an international outstaff team, collaborating with foreign clients and developers. Strong focus on clean, maintainable code, scalable architecture, REST APIs, Deploying and CI/CD workflows.<br><br>Tech Stack<br><br>Front-end:  TypeScript, JavaScript (ES6+), React / React Native, Next.js, Tailwind CSS, Zustand<br><br>Back-end: Node.js, Nest.js, PostgreSQL (PrismaORM, TypeORM), Supabase, RESTful API<br><br>Tools: Git, GitHub, VS Code, Docker, Supabase, Postman, Vercel, Basic CI/CD understanding<br><br>Spoken languages: English (B1-B2, working communication), Ukrainian
-
+I'm a Fullstack Developer with experience in React, TypeScript, and Node.js, focused on building scalable, production-ready web applications. <br>Skilled in Next.js, Tailwind CSS, NestJS, PostgreSQL, and Supabase. <br><br>Experienced in working in an international outstaff team, collaborating with foreign clients and developers. Strong focus on clean, maintainable code, scalable architecture, REST APIs, Deploying and CI/CD workflows.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/roman-rudiy-2b8b80278/) 
